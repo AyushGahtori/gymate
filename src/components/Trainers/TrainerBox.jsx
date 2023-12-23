@@ -17,9 +17,9 @@ function TrainerBox() {
   };
 
   const trainers = [
-    { img: Trainer1, name: "John Lewis", job: "Yoga Trainer" },
-    { img: Trainer2, name: "Jonathan Doe", job: "Crossfit Trainer" },
-    { img: Trainer3, name: "Ana June", job: "Personal Trainer" },
+    { img: Trainer1, name: "Ayush Gahtori", job: "Yoga Trainer" },
+    { img: Trainer2, name: "Ayush Gahtori", job: "Crossfit Trainer" },
+    { img: Trainer3, name: "Ayush Gahtori", job: "Personal Trainer" },
   ];
 
   return (
